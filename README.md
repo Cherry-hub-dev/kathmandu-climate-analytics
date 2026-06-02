@@ -17,6 +17,6 @@ An elegant, dark-themed Power BI dashboard analyzing 10 years of historical clim
 * **Git & GitHub:** Version control and cloud hosting for portfolio sharing.
 
 ## 📁 Project Structure
-* `Kathmandu_Climate_Dashboard.pbix` - The complete interactive Power BI project file.
-* `dashboard_preview.jpg` - Snapshot image of the final UI/UX layout.
-* `TIA-WEATHER-DATA...csv` - Raw 10-year historical dataset file.
+* `dashboard.pbix` - The complete interactive Power BI project file.
+* `dashboard.png` - Snapshot image of the final UI/UX layout.
+* `kathmandu weather.csv` - Raw 10-year historical dataset file.
